@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxgamesNL)]]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxgamesNL)
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=853620636701949983)
 <!--
